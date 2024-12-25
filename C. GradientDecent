@@ -1,0 +1,29 @@
+During 
+
+If the data is linear(independent and dependent correlate krre h) = 
+math                    (y=mx+c)
+ml                     y=(thita)x +b        (b=bias)
+
+x_train , y_train 
+
+#   first step
+
+random thita kuch bi lelo    then sbka y bi aayega
+
+
+
+# second step
+
+ab dekhega jo hmara y aaya h usme or y_train m kitna difference h
+jb tk error ata rhega bar bar y ki values rkhenge
+
+
+
+# third step 
+
+hm wo thita choose krenge jhan error sbse km hoga
+
+
+convex function pr lgti h ye 
+
+
